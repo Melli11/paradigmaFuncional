@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialFMI:lib"
+
+    - path: "./test"
+      component: "parcialFMI:test:parcialFMI-test"

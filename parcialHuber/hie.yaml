@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialHuber:lib"
+
+    - path: "./test"
+      component: "parcialHuber:test:parcialHuber-test"

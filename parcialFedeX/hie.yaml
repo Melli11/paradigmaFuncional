@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialFedeX:lib"
+
+    - path: "./test"
+      component: "parcialFedeX:test:parcialFedeX-test"
