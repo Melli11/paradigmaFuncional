@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialPinkyCerebro:lib"
+
+    - path: "./test"
+      component: "parcialPinkyCerebro:test:parcialPinkyCerebro-test"

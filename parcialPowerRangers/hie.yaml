@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialPowerRangers:lib"
+
+    - path: "./test"
+      component: "parcialPowerRangers:test:parcialPowerRangers-test"

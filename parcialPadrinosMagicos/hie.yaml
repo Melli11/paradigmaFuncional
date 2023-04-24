@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialPadrinosMagicos:lib"
+
+    - path: "./test"
+      component: "parcialPadrinosMagicos:test:parcialPadrinosMagicos-test"

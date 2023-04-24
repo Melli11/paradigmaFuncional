@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialSamuraiJack:lib"
+
+    - path: "./test"
+      component: "parcialSamuraiJack:test:parcialSamuraiJack-test"
