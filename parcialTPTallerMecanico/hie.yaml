@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialTPTallerMecanico:lib"
+
+    - path: "./test"
+      component: "parcialTPTallerMecanico:test:parcialTPTallerMecanico-test"
